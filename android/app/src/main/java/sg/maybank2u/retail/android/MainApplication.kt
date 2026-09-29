@@ -1,4 +1,4 @@
-package com.zdefendreactnativeshowcasesample
+package sg.maybank2u.retail.android
 
 import android.app.Application
 import com.facebook.react.PackageList

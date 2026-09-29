@@ -14,7 +14,7 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'ZDefendReactNativeShowcaseSample' do
+target 'zDefendMultiLicense' do
   config = use_native_modules!
 
   use_react_native!(
@@ -23,7 +23,7 @@ target 'ZDefendReactNativeShowcaseSample' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  target 'ZDefendReactNativeShowcaseSampleTests' do
+  target 'zDefendMultiLicenseTests' do
     inherit! :complete
     # Pods for testing
   end

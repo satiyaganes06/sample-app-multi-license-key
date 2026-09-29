@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ZDefendReactNativeShowcaseSample.app"
-               BlueprintName = "ZDefendReactNativeShowcaseSample"
-               ReferencedContainer = "container:ZDefendReactNativeShowcaseSample.xcodeproj">
+               BuildableName = "zDefendMultiLicense.app"
+               BlueprintName = "zDefendMultiLicense"
+               ReferencedContainer = "container:zDefendMultiLicense.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ZDefendReactNativeShowcaseSampleTests.xctest"
-               BlueprintName = "ZDefendReactNativeShowcaseSampleTests"
-               ReferencedContainer = "container:ZDefendReactNativeShowcaseSample.xcodeproj">
+               BuildableName = "zDefendMultiLicenseTests.xctest"
+               BlueprintName = "zDefendMultiLicenseTests"
+               ReferencedContainer = "container:zDefendMultiLicense.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ZDefendReactNativeShowcaseSample.app"
-            BlueprintName = "ZDefendReactNativeShowcaseSample"
-            ReferencedContainer = "container:ZDefendReactNativeShowcaseSample.xcodeproj">
+            BuildableName = "zDefendMultiLicense.app"
+            BlueprintName = "zDefendMultiLicense"
+            ReferencedContainer = "container:zDefendMultiLicense.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ZDefendReactNativeShowcaseSample.app"
-            BlueprintName = "ZDefendReactNativeShowcaseSample"
-            ReferencedContainer = "container:ZDefendReactNativeShowcaseSample.xcodeproj">
+            BuildableName = "zDefendMultiLicense.app"
+            BlueprintName = "zDefendMultiLicense"
+            ReferencedContainer = "container:zDefendMultiLicense.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
